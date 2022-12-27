@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{3E3DDA0C-F976-9FC8-EED7-6DA735DC6EA6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Bird.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bird.cs" Line="43" Column="8" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" />
+      <File FileName="Assets/Scripts/Edge.cs" />
+      <File FileName="Assets/Scripts/PipeMove.cs" />
+      <File FileName="Assets/Scripts/PipeSpawn.cs" />
+      <File FileName="Assets/Scripts/EdgeSpawn.cs" />
+      <File FileName="Assets/Scripts/ObjectPool.cs" />
+      <File FileName="Assets/ColumnMove.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1495745d-2445-4e60-b09a-b9572f531010" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
